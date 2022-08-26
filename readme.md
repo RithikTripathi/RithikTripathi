@@ -28,7 +28,7 @@ pleasure. In any case, I document it; Idon't just put it in there."**
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/46/000000/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Pandas.png"/ width="85" height="45"> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Numpy.png"/ width="85" height="45"> </a>
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Tableau.png "/ width="85" height="45"> </a>
+    <a href="https://matplotlib.org/_static/images/logo2.svg" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Tableau.png "/ width="85" height="45"> </a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Excel.png"/ width="85" height="45"></a>
     <a href="https://datastudio.google.com/overview" target="_blank"> <img src="https://cxl.com/wp-content/uploads/2019/07/google-data-studio-logo.png"/ width="85" height="45"></a>
     <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"> <img src="https://img.icons8.com/nolan/46/line-chart.png"/> </a>
