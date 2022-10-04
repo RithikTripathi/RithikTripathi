@@ -66,6 +66,11 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 <br/>
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rithiktripathi&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 ## Connect with me:
 <p align="left">
 
@@ -81,3 +86,7 @@ pleasure. In any case, I document it ; I don't just put it in there."**
     <img src="https://komarev.com/ghpvc/?username=RithikTripathi">
 </a>
 <a href="https://github.com/RithikTripathi?tab=followers"><img src="https://img.shields.io/github/followers/RithikTripathi?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## 💰 No act of support, no matter how small, is ever wasted.
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RithikTripathi) 
+
