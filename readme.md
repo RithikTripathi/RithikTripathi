@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently working on **Data Sciences & Machine Learning**
 
-- 🌱 I’m deep diving in **ML Algorithms & Practical Exposure**
+- 🌱 I’m deep diving in **Artificial Intelligence**
 
 - 👯 I would like to contribute in **OpenSource Projects**
 
 - 👨‍💻 All of my work are available at my **[Github](https://github.com/RithikTripathi)**
 
-- 📫 How to reach me **rithik.tripathi9@gmail.com**
+- 📫 How to reach me : **rithik.tripathi9@gmail.com**
 
-- ⚡ Fun fact : **I'll use dirty tricks for two reasons. One is,if it's really going to
+- ⚡ Fun fact : **I'll use dirty tricks for two reasons. One is, if it's really going to
 give me a performance improvement. Or sometimes just for pure
-pleasure. In any case, I document it; Idon't just put it in there."**
+pleasure. In any case, I document it ; I don't just put it in there."**
 
 
 ## 🚀 Languages and Tools:
