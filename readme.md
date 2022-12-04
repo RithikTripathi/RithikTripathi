@@ -28,11 +28,13 @@ pleasure. In any case, I document it ; I don't just put it in there."**
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/46/000000/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Pandas.png"/ width="85" height="45"> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Numpy.png"/ width="85" height="45"> </a>
-    <a href="https://matplotlib.org/_static/images/logo2.svg" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Tableau.png "/ width="85" height="45"> </a>
+    <a href="https://matplotlib.org/_static/images/logo2.svg" target="_blank"> <img src="https://user-images.githubusercontent.com/63400981/205504071-4361d0d8-60f3-412e-a8c3-9119ba6290e2.png"/ width="85" height="45"> </a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"> <img src="https://bootcamp.analyticsvidhya.com/static/images/tools/Excel.png"/ width="85" height="45"></a>
     <a href="https://datastudio.google.com/overview" target="_blank"> <img src="https://cxl.com/wp-content/uploads/2019/07/google-data-studio-logo.png"/ width="85" height="45"></a>
     <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"> <img src="https://img.icons8.com/nolan/46/line-chart.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.icons8.com/nolan/64/mind-map.png"/ width="55" height="45"></a>
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://user-images.githubusercontent.com/63400981/205503983-ebf1aeea-61cf-43b0-ada4-aabacc59252f.png"/ width="55" height="45"></a>
+     <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img src="https://user-images.githubusercontent.com/63400981/205504026-92b1317a-f35a-4d99-a015-820d194eb193.png"/ width="55" height="45"></a>
 
 
     
